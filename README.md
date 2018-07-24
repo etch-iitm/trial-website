@@ -3,4 +3,5 @@ Website for Etch magazine using Jekyll
 
 ## Suitable Themes:
 Bef  
-Jasper2
+Jasper2  
+Sleek
